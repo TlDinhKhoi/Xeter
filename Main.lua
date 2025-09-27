@@ -1,7 +1,7 @@
 local Versions = {
-    V1 = "https://raw.githubusercontent.com/TlDinhKhoi/Xeter/refs/heads/main/V1.lua",
-    V2 = "https://raw.githubusercontent.com/TlDinhKhoi/Xeter/refs/heads/main/V2.lua",
-    V3 = "https://raw.githubusercontent.com/TlDinhKhoi/Xeter/refs/heads/main/V3.lua",
+    V1 = "https://github.com/TlDinhKhoi/Xeter/raw/refs/heads/main/Version/V1.lua",
+    V2 = "https://github.com/TlDinhKhoi/Xeter/raw/refs/heads/main/Version/V2.lua",
+    V3 = "https://github.com/TlDinhKhoi/Xeter/raw/refs/heads/main/Version/V3.lua",
 }
 
 local ver = getgenv().Version or "V3"
